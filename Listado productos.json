@@ -1,0 +1,40 @@
+{
+    "nombre": "Listado de articulos",
+    "articulos": [
+        {
+            "Nombre":"",
+            "Descripción":"",
+            "Precio":""
+        },
+        {
+            "Nombre":"",
+            "Descripción":"",
+            "Precio":""
+        },
+        {
+            "Nombre":"",
+            "Descripción":"",
+            "Precio":""
+        },
+        {
+            "Nombre":"",
+            "Descripción":"",
+            "Precio":""
+        },
+        {
+            "Nombre":"",
+            "Descripción":"",
+            "Precio":""
+        },
+        {
+            "Nombre":"",
+            "Descripción":"",
+            "Precio":""
+        },
+        {
+            "Nombre":"",
+            "Descripción":"",
+            "Precio":""
+        }
+    ]
+}
